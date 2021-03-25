@@ -1,2 +1,2 @@
-# GayChaos
-The Minecraft Server for the chaos group
+# Chaos Server
+The Minecraft Server for whatever I guess lol
