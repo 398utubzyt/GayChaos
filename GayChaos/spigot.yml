@@ -143,3 +143,5 @@ world-settings:
       raiders: 48
       misc: 16
       tick-inactive-villagers: true
+  worldeditregentempworld:
+    verbose: false
